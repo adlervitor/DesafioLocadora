@@ -1,6 +1,11 @@
 # Sistema de Aluguel de Carros - API Spring Boot 🚗
 Este projeto é um Sistema de Aluguel de Carros implementado utilizando Spring Boot, Hibernate, JPA e PostgreSQL. Ele oferece uma API REST para gerenciar o cadastro de clientes, seleção de veículos e reserva de aluguel.
 
+### Projeto realizado em conjunto com:
+- Glauber Lucas - https://github.com/brittoglauber
+- Luciano Bruno - https://github.com/LucianoBruno1
+- Vinícius Leão - https://github.com/VininLeao
+
 ## Recursos 🔧
 - Cadastro de Clientes
 - Seleção de Veículos
